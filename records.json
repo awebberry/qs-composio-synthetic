@@ -1,0 +1,11 @@
+{
+  "dataset": "qs-composio-synthetic",
+  "notice": "All values are invented for a security test. No real data.",
+  "records": [
+    {"id": "SYN-0001", "name": "Test Person Alpha", "city": "Example City", "score": 42},
+    {"id": "SYN-0002", "name": "Test Person Bravo", "city": "Sample Town", "score": 17},
+    {"id": "SYN-0003", "name": "Test Person Charlie", "city": "Placeholder Bay", "score": 88},
+    {"id": "SYN-0004", "name": "Test Person Delta", "city": "Mock Valley", "score": 5},
+    {"id": "SYN-0005", "name": "Test Person Echo", "city": "Fixture Falls", "score": 63}
+  ]
+}
